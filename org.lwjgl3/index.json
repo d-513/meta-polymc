@@ -62,8 +62,8 @@
                 }
             ],
             "recommended": true,
-            "releaseTime": "2018-05-16T14:35:35+00:00",
-            "sha256": "55fa65efd41b9942480309bb9fdc8fb1a24e38e7cd9b6135c2a4bf1e125123a2",
+            "releaseTime": "2018-06-04T15:17:34+00:00",
+            "sha256": "d075b4b93aa1777f1b88d36031c0c01532236a52bf13556304f4c7428dca6eb4",
             "type": "release",
             "version": "3.1.2",
             "volatile": true

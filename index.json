@@ -13,7 +13,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "b6389fa8c966c8b74af59111b687a7df1ec2e00414a476811aa92b78392b1962",
+            "sha256": "f1bfc3b2aa1ef90162ffc4b194c95cd753d2df49e28f6b847e05248288342b54",
             "uid": "net.fabricmc.intermediary"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "0c44ef5855241a2ae584e6dc78212ebc763e62bfdbf0b433af80dd6d2eb20220",
+            "sha256": "1ae251bea5c61b82bb6603e9290f413b9c4d580563cb23f9ac9bcb219a50c023",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "4a30d9b97eb4abd9132c1befbc563112b54042dba11642ffef4247ba87a787e8",
+            "sha256": "0f415de605de77c2205c49aa14b4f68894ad89ef53e87bd969640fece440a9c1",
             "uid": "org.lwjgl3"
         },
         {
